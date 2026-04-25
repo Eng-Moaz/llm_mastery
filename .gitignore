@@ -1,0 +1,9 @@
+# Graphs
+micrograd/graphs
+
+# Virtual environments
+.venv
+
+# JetBrains IDE specific files
+.idea/
+*.iml
