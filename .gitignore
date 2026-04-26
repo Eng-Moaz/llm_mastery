@@ -7,3 +7,11 @@ micrograd/graphs
 # JetBrains IDE specific files
 .idea/
 *.iml
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
